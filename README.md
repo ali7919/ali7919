@@ -2,7 +2,7 @@
 
 ### About me
 
-  - Studing Computer Science at kharazmi university
+  - BSc in Computer Science
   - Making cool games with Unity
   - Learning new things
 
