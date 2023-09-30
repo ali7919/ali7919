@@ -3,6 +3,7 @@
 ### About me
 
   - BSc in Computer Science
+  - Studying for MSc in Artificial intelligence
   - Making cool games with Unity
   - Learning new things
 
